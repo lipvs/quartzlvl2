@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "e5c64c6498ee5d43",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb9867582cb25e6",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbde25abb46d1d41",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbb42507f6a961ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c097fc930b51fd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c2fd9281a7ea717",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mission",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cb62b8507046e64",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9204eacaed5b2523",
+    "type": "split",
+    "children": [
+      {
+        "id": "387c49ed7f444253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a21b6efd0b768fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73810064da6d85bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "69ea4bcf270db9b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1dd70f589dd06084",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3837977f2fd8682d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "7bc3eeab1c74ded8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8cb9867582cb25e6",
+  "lastOpenFiles": [
+    "attack_vectors.md",
+    "flashloan.md",
+    "collateral_auctions.md",
+    "access_control_attacks.md",
+    "mission.md",
+    "governance_attacks.md",
+    "defi_protocols.md",
+    "governance.md",
+    "oracles.md",
+    "maker_vaults.md"
+  ]
+}
